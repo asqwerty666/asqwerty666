@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ### Hello out there 🤪
 
-![status](skate.jpg)
+![status](surfskate.jpg)
 
 I'll be probably busy at any time you want to contact me but just keep trying.
