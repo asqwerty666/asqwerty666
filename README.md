@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![status](surfskate.jpg)
 
-I'll be probably busy at any time you want to contact me but just keep trying.
+I'm currently working in the integration of my pipeline with XNAT. Interaction is easy but the QC management is driving me crazy. 
