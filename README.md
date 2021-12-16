@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![status](surfskate.jpg)
 
-I'm currently working on new implementations of working methods for DTI and looking for how to interate them on XNAT.
+I'm currently working on new implementations of working methods for DTI and looking for how to integrate them on XNAT.
