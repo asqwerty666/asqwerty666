@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![status](surfskate.jpg)
 
-I'm currently working in new working methods for MRI and DTI. 
+I'm currently working on new implementations of working methods for DTI and looking for how to interate them on XNAT.
