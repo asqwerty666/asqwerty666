@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 Updating neurodegeneration assessment implementation
 
 ---
+  - *20211220*
+
+New MRI protocol implemented. 👍 Mostly based on *dcm3tools* and using *xnatapic* for and easy managment.  
+ 
+---
   - *20211216*
 
-I'm currently working on new implementations of working methods for DTI and looking for how to integrate them on XNAT.
+I'm currently working on new implementations of working methods for DTI and looking for how to integrate them on XNAT. 🤦
 
 ---
  - *20211020*
