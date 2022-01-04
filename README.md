@@ -28,3 +28,8 @@ Updating neurodegeneration assessment implementation
   - *20211216*
 
 I'm currently working on new implementations of working methods for DTI and looking for how to integrate them on XNAT.
+
+---
+ - *20211026*
+ 
+ Working in the integration of my pipeline with XNAT. Interaction is easy but the QC management is driving me crazy
