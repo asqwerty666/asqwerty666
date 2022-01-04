@@ -20,4 +20,9 @@ Here are some ideas to get you started:
 
 ![status](surfskate.jpg)
 
+*20220104*
+Updating neurodegeneration assessment implementation
+
+---
+*20211216*
 I'm currently working on new implementations of working methods for DTI and looking for how to integrate them on XNAT.
