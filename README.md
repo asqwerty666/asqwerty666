@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![status](surfskate.jpg)
 
-  - *202201015*
+  - *20220115*
 
 Working on a slurm related project. I'm doing a helper to launch sbatch task inside python scripts. Actually the helper writing was fun nut the docs are doble large and half fun. :persevere: 
 
