@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   - *20220115*
 
 Working on a slurm related project. I'm doing a helper to launch sbatch jobs inside python scripts. Actually the helper writing was fun but the docs are doble large and half fun. :persevere: 
+
 Whisky helps at nighty work, anyways
 
 ---
