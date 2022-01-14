@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 Working on a slurm related project. I'm doing a helper to launch sbatch task inside python scripts. Actually the helper writing was fun nut the docs are doble large and half fun. :persevere: 
 
+---
   - *20220104*
 
 Updating neurodegeneration assessment implementation
