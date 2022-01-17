@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 First version including a simple example. Lot of fun.
 
+---
  - *20220114*
 
 Working on a slurm related project. I'm doing a helper to launch sbatch jobs inside python scripts. Actually the helper writing was fun but the docs are doble large and half fun. :persevere: 
