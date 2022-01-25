@@ -19,7 +19,16 @@ Here are some ideas to get you started:
 ### Hello out there 🤪
 
 ![status](surfskate.jpg)
+ 
+ - *20220125*
 
+Lot of work:
+- Reviewing papers 😕
+- Fixing PET-tau pipeline 🥴
+- Writing new imaging processing procedure 🙃
+- Making a new beamer presentation about SLURM and programatic tasks 🤠
+
+---
  - *20220115*
 
 *slurm-modpy* released 🙂
