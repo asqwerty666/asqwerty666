@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### This is how I'm increasing entropy  🤪
 
-![status](surfskate.jpg)
+<img src="surfskate.jpg" width="800" />
  
  - *20220125*
 
