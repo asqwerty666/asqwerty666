@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello out there 🤪
+### This is how I'm increasing entropy  🤪
 
 ![status](surfskate.jpg)
  
