@@ -22,11 +22,14 @@ Here are some ideas to get you started:
  
  - *20220125*
 
-Lot of work:
+Lot of work: 
+
 - Reviewing papers 😕
 - Fixing PET-tau pipeline 🥴
 - Writing new imaging processing procedure 🙃
-- Making a new beamer presentation about SLURM and programatic tasks 🤠
+- Making a new beamer presentation about SLURM and programatic tasks 🤠 
+
+<img src="IMG-0259.jpg" width="250" />
 
 ---
  - *20220115*
