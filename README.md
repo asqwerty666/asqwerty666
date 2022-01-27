@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 ### This is how I'm increasing entropy  🤪
 
 ![](surfskate.jpg)
- 
+
+ - *20220127*
+
+Working on WMH pipeline implementation with [PGS](https://wmh.isi.uu.nl/results/pgs/)
+
+---
  - *20220125*
 
 Lot of work: 
