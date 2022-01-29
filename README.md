@@ -20,6 +20,14 @@ Here are some ideas to get you started:
 
 ![](surfskate.jpg)
 
+ - *20220128*
+
+Actually the WMH calculus works just fine. Doing some testing on real data. 😃 
+
+![Working on now](3screens.png)
+
+---
+
  - *20220127*
 
 Working on WMH pipeline implementation with [PGS](https://wmh.isi.uu.nl/results/pgs/)
