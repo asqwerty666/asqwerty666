@@ -20,7 +20,13 @@ Here are some ideas to get you started:
 
 ![](surfskate.jpg)
 
- - *20220128*
+---
+ - *20220202*
+
+Dealing with a lot of data. Very slow anonimization and uploading proccesses 🤮 
+
+---
+- *20220128*
 
 Actually the WMH calculus works just fine. Doing some testing on real data. 😃 
 
