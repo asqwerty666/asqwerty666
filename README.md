@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 Dealing with a lot of data. Very slow anonimization and uploading proccesses 🤮 
 
+Thanks to [barrier project](https://github.com/debauchee/barrier) my work is a lot more easy these days
+
 ---
 - *20220128*
 
