@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ![](surfskate.jpg)
 
 ---
+
+ - *20220209*
+
+Writing another parser. 💩. Some people think that improving a report means to change the format each month. 🤦
+
+---
  - *20220202*
 
 Dealing with a lot of data. Very slow anonimization and uploading proccesses 🤮 
