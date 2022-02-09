@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 
 Writing another parser. 💩. Some people think that improving a report means to change the format each month. 🤦
 
+Quiet night. 
+Testing rpi3 as NFS server for backing up SDCards. Well, the SD Cards ussually get out of order and fixing again all the custom settings is boring. So, I will backup the card images in a home made NFS server an eventually I just will need to pull them into a new card. I hope.
+
 ---
  - *20220202*
 
