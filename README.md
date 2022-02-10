@@ -22,6 +22,24 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220210*
+
+I should send some data in SPSS format. So, let's do some dirty tricks inside my Perl scripts to export the data through an R library. 
+
+```
+		my $rscript = mktemp($tmp_dir.'/rtmpscript.XXXXX');
+		open ORS, ">$rscript";
+		print ORS 'library("haven")'."\n";
+		print ORS 'setwd("'.$odir.'")'."\n";
+		print ORS 'read.csv("'.$tmpf.'") -> w'."\n";
+		print ORS 'write_sav(w,"'.$savfile.'")'."\n";
+		close ORS;
+		print "$rscript\n";
+		system("Rscript $rscript");
+```
+
+---
+
  - *20220209*
 
 Writing another parser. 💩. Some people think that improving a report means to change the format each month. 🤦
