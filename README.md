@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220211*
+ 
+Shitty parser finished ☺️
+ 
+---
+
  - *20220210*
 
 I should send some data in SPSS format. So, let's do some dirty tricks inside my Perl scripts to export the data through an R library. 
