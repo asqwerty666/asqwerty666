@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220216*
+
+Working on longitudinal analysis. Figuring out a lot of things not done yet. 🤯
+
+---
+
  - *20220211*
  
 Shitty parser finished ☺️
