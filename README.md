@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### This is how I'm increasing entropy  🤪
 
-![](surfskate.jpg)
+![](surfskate02.jpg)
 
 ---
 
