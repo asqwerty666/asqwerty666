@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220309*
+ 
+ Studying some hierarchical clustering algorithms for improving things. Actually boring. SSDD.
+ 
+---
+
  - *20220216*
 
 Working on longitudinal analysis. Figuring out a lot of things not done yet. 🤯
