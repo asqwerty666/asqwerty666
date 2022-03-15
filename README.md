@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
- - *20220309*
+ - *20220315*
  
 Doing some strange work with matlab. I have been commissioned to run [brainageR](https://github.com/james-cole/brainageR) on the HPC cluster. But no way. It depends on Matlab and I have no network licences 🌩️. So, the software runs OK but there is no way of using the SPM runtime or any container. Too bad I need to run this serial 😠. So, at least 10 days of calculations if everything is fine. 👊 
 
