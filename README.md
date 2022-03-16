@@ -28,7 +28,7 @@ I put an array into a hash, so I was dropping half of data. I needed to review t
 
 This days the hard work from past years are making things very easier. 😄
 
-![](brainage_working.jpg)
+![](brainage_working.png)
 
 ---
 
