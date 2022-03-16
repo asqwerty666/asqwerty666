@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220316*
+
+I put an array into a hash, so I was dropping half of data. I needed to review the libraries looking for the output of functions. Yes it painful but you need to doc all your functions. I don't have enough time to maintain everything properly. 😢
+
+---
+
  - *20220315*
  
 Doing some strange work with matlab. I have been commissioned to run [brainageR](https://github.com/james-cole/brainageR) on the HPC cluster. But no way. It depends on Matlab and I have no network licences 🌩️. So, the software runs OK but there is no way of using the SPM runtime or any container. Too bad I need to run this serial 😠. So, at least 10 days of calculations if everything is fine. 👊 
