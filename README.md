@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  - *20220316*
 
-I put an array into a hash, so I was dropping half of data. I needed to review the libraries looking for the output of functions. Yes it's painful but you need to doc all your functions. I don't have enough time to maintain everything properly 😢. Anyway, dumb errors are inescapable. But sometimes when everything is in place you can find it easy and hard things could become easy. 
+I put an array into a hash, so I was dropping half of data. I needed to review the libraries looking for the output of functions. Yes it's painful but you need to doc all your functions. I don't have enough time to maintain everything properly 😢. Anyway, dumb errors are inescapable. But sometimes when everything is in place hard things could become easy. 
 
 This days the hard work from past years are making things very easier. 😄
 
