@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220319*
+ 
+ Quiet days. Doing some inavoidable repetitive tasks. The bad of semiautomatic is always that the semi part is quite large. Visual evaluation, manual checking and some other boring tasks.
+ 
+---
+
  - *20220316*
 
 I put an array into a hash, so I was dropping half of data. I needed to review the libraries looking for the output of functions. Yes it's painful but you need to doc all your functions. I don't have enough time to maintain everything properly 😢. Anyway, dumb errors are inescapable. But sometimes when everything is in place hard things could become easy. 
