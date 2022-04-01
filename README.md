@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220401*
+
+Lot of fun rewriting [xnatapic](https://github.com/asqwerty666/xnatapic) for reusing JSESSION ID.
+
+---
+
  - *20220331*
 
 I was having a lot of trouble with XNAT and my scripts. But last nigth I found this: [Generating and Reusing a JSESSION ID for Scripted Interactions](https://wiki.xnat.org/documentation/how-to-use-xnat/generating-and-reusing-a-jsession-id-for-scripted-interactions) and it seems to me that half of my problems with tomcat are solved. :godmode: 
