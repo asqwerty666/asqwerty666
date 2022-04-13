@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+ - *20220413*
+
+Messing with XNAT these days. Learning the best way to use the experiment ans subject API to store non image data. Visual reading reports and associated variables as experiment resources, custom subject variables and even pdf files with project acquisition protocols. XNAT proves to be very useful after some reading hours.
+
+---
+
  - *20220401*
 
 Lot of fun rewriting [xnatapic](https://github.com/asqwerty666/xnatapic) for reusing JSESSION ID.
