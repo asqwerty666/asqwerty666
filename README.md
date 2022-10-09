@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+- *20221009*
+
+Fixing registration for PET-Tau over MRI 
+
+---
+
  - *20220815*
 
 A few months with lot of dirty work to do. 
