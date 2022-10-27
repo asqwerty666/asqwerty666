@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 ---
 
+- *20221027*
+
+- Testing MC for PET-Tau *before* registration to MRI space. SNR really improves.
+
+- Choosing FS registration over ANTs seems to be faster without lost of quality. It is simpler also.
+
+---
+
 - *20221009*
 
 Fixing registration for PET-Tau over MRI with ANTS has proved to be harder than expected. I took a tour over all the metrics and options of *antsRegitration* script and there is no one size fit all option. I managed to do the job but still I'm no happy with the final method. Still the results are OK. 
