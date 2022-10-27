@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - *20221027*
 
-- Testing MC for PET-Tau *before* registration to MRI space. SNR really improves.
+Testing MC for PET-Tau *before* registration to MRI space. SNR really improves.
 
-- Choosing FS registration over ANTs seems to be faster without lost of quality. It is simpler also.
+Choosing FS registration over ANTs seems to be faster without lost of quality. It is simpler also.
 
 ---
 
