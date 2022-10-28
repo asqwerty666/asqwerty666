@@ -20,13 +20,20 @@ Here are some ideas to get you started:
 
 ![](surfskate02.jpg)
 
+
+---
+
+- *20221028*
+
+Thinking about how to manage right the H2H project into the cluster
+
 ---
 
 - *20221027*
 
 Testing MC for PET-Tau *before* registration to MRI space. SNR really improves.
 
-Choosing FS registration over ANTs seems to be faster without lost of quality. It is simpler also.
+Choosing FS registration over ANTs seems to be faster without lost of quality. It is simpler, also.
 
 ---
 
