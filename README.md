@@ -20,6 +20,41 @@ Here are some ideas to get you started:
 
 ![](surfskate02.jpg)
 
+---
+
+- *20221108*
+
+I need to storage some external data into XNAT. It seems the proper way for me is to put the data as aditional resource per experiment. So basically I should build two functions. First one just to put a json as a resource. This is straightforward, I just ask for the host, jsession, project, experiment an a location to put the json. 
+
+```
+sub xput_res {
+        my @xdata = @_;
+        my $crd = 'curl -f -X PUT -b JSESSIONID='.$xdata[1].' "'.$xdata[0].'/data/experiments/'.$xdata[2].'/resources/'.$xdata[3].'/files/'.$xdata[4].'?overwrite=true" -F file="@'.$xdata[5].'"';
+        system($crd);
+}
+```
+
+But now I want to be able to retrieve the data. That is, I want to tell the *get* function where the right json file is and I want to get a simple hash. If I now what I'm looking for then it should be easy to amnage the info later. Maybe if this is managed as a single resource array, it should be easier,
+
+
+```
+sub xget_res {
+        my @xdata = @_;
+        my $crd = 'curl -f -X GET -b JSESSIONID='.$xdata[1].' "'.$xdata[0].'/data/experiments/'.$xdata[2].'/resources/'.$xdata[3].'/files/'.$xdata[4].'" 2>/dev/null';
+        my $json_res = qx/$crd/;
+        my %out_data;
+        my $data_prop = decode_json $json_res;
+        foreach my $data_res (@{$data_prop->{'ResultSet'}{'Result'}}){
+                foreach my $kdata (sort keys %{$data_res}){
+                        $out_data{$kdata} = ${$data_res}{$kdata};
+                }
+        }
+        return %out_data;
+}
+
+
+```
+So far so good, those functions should be enough for the time being.
 
 ---
 
