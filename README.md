@@ -22,6 +22,47 @@ Here are some ideas to get you started:
 
 ---
 
+- *20221109*
+
+Well, passing the json file to the upload function is not the rigth answer. The proper way should be to pass the entire hash and make the json *inside* the function.
+
+```
+sub xput_res {
+        my @xdata = @_;
+        # just pass the hash reference as the last array element
+        my %jdata = %{$xdata[5]};
+        # The hash content goes to a string with json format. 
+	# Since I'm following XNAT json style it makes the things a little more complicated
+	# otherways it should be a lot shorter
+        my $json_content = '{"ResultSet":{"Result":[';
+        my $size = keys %jdata;
+        foreach my $jvar (sort keys %jdata){
+                $json_content .= '{"'.$jvar.'":"'.$jdata{$jvar}.'"}';
+                $size--;
+                $json_content .= ',' if $size;
+        }
+        $json_content .= ']}}';
+        # Now put the file content into a real json file
+        my $tmp_dir = tempdir(TEMPLATE => $ENV{TMPDIR}.'/wmh_data.XXXXX', CLEANUP => 1);
+        my $tmp_file = $tmp_dir.'/'.$xdata[2].'.json';
+        open TDF, ">$tmp_file";
+        print TDF $json_content;
+        close TDF;
+        # and there we go
+        my $crd = 'curl -f -X PUT -b JSESSIONID='.$xdata[1].' "'.$xdata[0].'/data/experiments/'.$xdata[2].'/resources/'.$xdata[3].'/files/'.$xdata[4].'?overwrite=true" -F file="@'.$tmp_file.'"';
+        system($crd);
+}
+
+```
+Now, it seems simpler to use. 🤓 You just need to put the values into a hash and invoke the function as,
+
+
+``` 
+xput_res($host, $jsession, $experiment, $type, $file, \%hash_data);
+
+``` 
+---
+
 - *20221108*
 
 I need to storage some external data into XNAT. It seems the proper way for me is to put the data as aditional resource per experiment. So basically I should build two functions. First one just to put a json as a resource. This is straightforward, I just ask for the host, jsession, project, experiment an a location to put the json. 
