@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ---
 
+- *20221118*
+
+Wrong again. Sometimes, I want to pass the data and storage it as a json. Sometimes I want to pass a file and storage it as is. So, I need to define two separate functions *xput_res_file()* and *xput_res_data()*. The first one is simpler and receive the file (could be a json, a pdf , a gif) and where to storage it. The later just get a *hash* with the data and build the XNAT json beforestorage it.
+
+---
+
 - *20221109*
 
 Well, passing the json file to the upload function is not the rigth answer. The proper way should be to pass the entire hash and make the json *inside* the function.
