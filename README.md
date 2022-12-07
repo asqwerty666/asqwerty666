@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 
 ---
 
+- *20221207*
+
+Rewriting a lot of XNATACE.pm perl library. Now the funtions use **jq** to guess the parameters inside the **JSON** structure. A few functions have also been added in order to get or modify non image data for subjects and/or experiments. Also, WMH calculations was implemented as a new pipeline inside XNAT and results are stored as a json file inside a separated resource.
+
+So many changes were done and all this needs to be reorganized inside a new version number. Start planning it now! 🥳
+
+
+---
+
 - *20221118*
 
 Wrong again. Sometimes, I want to pass the data and storage it as a json. Sometimes I want to pass a file and storage it as is. So, I need to define two separate functions *xput_res_file()* and *xput_res_data()*. The first one is simpler and receive the file (could be a json, a pdf , a gif) and where to storage it. The later just get a *hash* with the data and build the XNAT json before to storage it.
