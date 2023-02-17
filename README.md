@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 ---
 
+- *20230217*
+
+![](dead_rpi.png)
+
+She died a couple of days ago 🤬. I have setup a couple of old RPi3 to replace my RPi4b but definitely not the same. However I could install manjaro in both RPi3, set a wifi hotspot, share mouse and keyboard with barrier and pretty much install the same software. Slow as you wish your death come to you. 
+
+---
+
 - *20221207*
 
 Rewriting a lot of XNATACE.pm perl library. Now the funtions use **jq** to guess the parameters inside the **JSON** structure. A few functions have also been added in order to get or modify non image data for subjects and/or experiments. Also, WMH calculations was implemented as a new pipeline inside XNAT and results are stored as a json file inside a separated resource.
