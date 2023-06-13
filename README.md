@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 ![](surfskate02.jpg)
 
 ---
+- *20230613*
+
+A few months ago I spent two days writing a script for a one time job. Frankly, it seemed like a waste of time. 
+
+But then, somebody ask me to repeat the same job. And again. And still again. It feels better now. 
+---
+
 - *20230221*
 
 I wanted to by another rpi4 but the shortage have raised prices to much. For half the actual market price of a rpi4b I grabbed an intel NUC and a DDR4 RAM, reused an SSD disk and built an amazing piece of dual head thin client. 
