@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - *20230613*
 
 A few months ago I spent two days writing a script for a one time job. Frankly, it seemed like a waste of time. 
-
 But then, somebody ask me to repeat the same job. And again. And still again. It feels better now. 
+
 ---
 
 - *20230221*
