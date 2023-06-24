@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 ![](surfskate02.jpg)
 
 ---
+- *20230624*
+
+WTF disney, how did you kill Maria Hill? Is this for real? 
+
+---
 - *20230613*
 
 A few months ago I spent two days writing a script for a one time job. Frankly, it seemed like a waste of time. 
