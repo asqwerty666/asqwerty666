@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-Rigth now I'm looking into colaborations on HPC and bioinformatics. I active searching for some project were I can apply my abilities in process parallelization as well as my knowledge of linux scripting.    
+Rigth now I'm looking into colaborations on HPC and bioinformatics. I'm active searching for some project were I can apply my abilities in process parallelization as well as my knowledge of linux scripting.    
 
 ---
 Some facts about me,
