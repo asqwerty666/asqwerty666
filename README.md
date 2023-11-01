@@ -27,5 +27,5 @@ Rigth now I'm looking into colaborations on HPC and bioinformatics. I'm active s
 ---
 Some facts about me,
 
-- I'm currently working in how to manage longitudinal support for XNAT into my [neuroimaging pipeline](https://github.com/asqwerty666/acenip).
-- But we are in summer, so I keep getting fun with some kayaking and surfskate time! 
+- I'm currently working some bioinformatic and neuroimaging projects
+- Summer has gone, but I keep getting fun with some kayaking and surfskate time! 
