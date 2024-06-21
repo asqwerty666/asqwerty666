@@ -32,4 +32,4 @@ Rigth now I'm looking into colaborations on HPC and bioinformatics. I'm active s
 Some facts about me,
 
 - I'm currently working some bioinformatic and neuroimaging projects
-- Summer has gone, but I keep getting fun with some kayaking and surfskate time! 
+- Summer is here again , so I'm getting fun with some canoeing and surfskate time! 
