@@ -32,4 +32,4 @@ Rigth now I'm looking into colaborations on HPC and bioinformatics. I'm active s
 Some facts about me,
 
 - I'm currently working some bioinformatic and neuroimaging projects
-- Currently playing around with some perl modules as [MsOffice::Word::Surgeon](https://metacpan.org/pod/MsOffice::Word::Surgeon) to make my bills
+
